@@ -5,10 +5,6 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 import os
 
-website_link = ""
-user = ""
-passe = ""
-element_for_username = "username"
 element_for_password = "password"
 element_for_submit = "btnSubmit"
 
